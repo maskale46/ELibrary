@@ -1,2 +1,2 @@
 # ELibrary
-Java Application using SpringMVC, Spring boot
+Java Application using Servlets
